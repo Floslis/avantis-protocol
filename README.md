@@ -7,7 +7,7 @@ What the Avantis says on the network, and how to talk back. Rebuilt from packet 
 > [!WARNING]
 > **Unofficial and incomplete.** Allen & Heath documents only the MIDI over TCP part. Everything about the native protocol below was observed, not specified. It works on an Avantis with **firmware V2.01 Rev. 97241**, but may differ on other versions. **Test outside of shows**, with someone at the desk. Getting the heartbeat wrong makes the desk show **"Internal Error"** (no effect on audio in our tests, but still).
 
-These notes power **[avantis-talkback](https://github.com/Floslis/avantis-talkback)**, a tool that switches a talkback channel's assign to in-ear mixes from the browser or desk softkeys.
+These notes power **[allenheath-talkback](https://github.com/Floslis/allenheath-talkback)**, a tool that switches a talkback channel's assign to in-ear mixes from the browser or desk softkeys.
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/floslist)
 

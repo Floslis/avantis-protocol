@@ -7,7 +7,7 @@ Was das Avantis im Netz sagt und wie man ihm antwortet. Nachgebaut aus Mitschnit
 > [!WARNING]
 > **Inoffiziell und unvollständig.** Allen & Heath dokumentiert nur den Teil MIDI über TCP. Alles zum nativen Protokoll unten ist beobachtet, nicht spezifiziert. Es funktioniert an einem Avantis mit **Firmware V2.01 Rev. 97241**, kann bei anderen Versionen abweichen. **Außerhalb von Shows testen**, mit jemandem am Pult. Wer das Lebenszeichen falsch macht, bekommt am Pult **„Internal Error“** (in unseren Tests ohne Folgen für den Ton, trotzdem).
 
-Diese Notizen stecken hinter **[avantis-talkback](https://github.com/Floslis/avantis-talkback)**, einem Tool, das das Assign eines Talkback-Kanals per Browser oder Softkey auf In-Ear-Mixe schaltet.
+Diese Notizen stecken hinter **[allenheath-talkback](https://github.com/Floslis/allenheath-talkback)**, einem Tool, das das Assign eines Talkback-Kanals per Browser oder Softkey auf In-Ear-Mixe schaltet.
 
 [![Unterstütze mich auf Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/floslist)
 
