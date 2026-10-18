@@ -140,4 +140,4 @@ Wenn dir diese Notizen ein Wochenende mit Mitschnitten sparen, freue ich mich ü
 
 ## Lizenz
 
-[MIT](LICENSE) · Nicht mit Allen & Heath verbunden · Ein Projekt von **[FLOTECH](https://flotech.dev)**
+Text: [CC BY-SA 4.0](LICENSE), weitergeben mit Namensnennung und unter derselben Lizenz · Beispielcode in [`examples/`](examples/): [AGPL-3.0](examples/LICENSE) · © 2026 Florian Hogrebe · frühere Fassungen unter MIT · Nicht mit Allen & Heath verbunden · Ein Projekt von **[FLOTECH](https://flotech.dev)**

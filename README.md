@@ -140,4 +140,4 @@ If these notes save you a weekend of packet captures, I'm happy about a coffee. 
 
 ## License
 
-[MIT](LICENSE) · Not affiliated with Allen & Heath · A project by **[FLOTECH](https://flotech.dev)**
+Text: [CC BY-SA 4.0](LICENSE), share with credit and under the same license · Example code in [`examples/`](examples/): [AGPL-3.0](examples/LICENSE) · © 2026 Florian Hogrebe · earlier versions were MIT · Not affiliated with Allen & Heath · A project by **[FLOTECH](https://flotech.dev)**
